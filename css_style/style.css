@@ -39,13 +39,10 @@ p{
 }
 
 .conteneur {
-    padding: 10px;
-    margin: 15px;
-    width: 100%;
-    height: 100%;
+    padding: 15px;
+    margin: 20px;
    
 }
-
 
 .image img {
     width:20%;
